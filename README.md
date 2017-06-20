@@ -1,3 +1,3 @@
 # portfolio
-Portfolio site for Jeremy K
+new fun site for dev learning, about ME
 
