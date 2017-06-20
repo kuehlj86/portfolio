@@ -1,2 +1,3 @@
 # portfolio
-Portfolio site
+Portfolio site for Jeremy K
+
